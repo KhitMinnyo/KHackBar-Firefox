@@ -102,33 +102,6 @@ The extension has been fully re-skinned with a **Red Team / Hacker aesthetic** a
 
 ---
 
-## 📦 Installation Guide
-
-### Step 1: Download or Clone
-```bash
-git clone https://github.com/KhitMinnyo/KHackBar.git
-cd KHackBar
-```
-
-### Step 2: Open Firefox Debugging Page
-Open **Firefox** or **Firefox Developer Edition** and navigate to:
-```
-about:debugging
-```
-
-### Step 3: Choose "This Firefox"
-Click on **"This Firefox"** in the left sidebar.
-
-### Step 4: Load Temporary Add-on
-Click **"Load Temporary Add-on…"** and select the `manifest.json` file from the project folder.
-
-### Step 5: Permanent Installation
-For permanent installation, the extension must be signed by Mozilla. You can:
-1. Package the extension as a `.xpi` file
-2. Submit it to **Mozilla Add-ons (AMO)** at `addons.mozilla.org`
-3. Once approved, install directly from AMO
-
----
 
 ## 🚀 How to Use
 
